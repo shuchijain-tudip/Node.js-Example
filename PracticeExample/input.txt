@@ -1,0 +1,2 @@
+Node.js is a server side plateform built on google Chrome's engine(v8 engine).
+Node js is an open source cross plateform runtime environment for developing server side and networking application.
